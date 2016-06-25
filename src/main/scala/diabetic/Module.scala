@@ -1,3 +1,3 @@
 package diabetic
 
-case object Module
+object Module
